@@ -3,7 +3,6 @@
 
 
 
-This is my second challenge i have done on [Frontend Mentor](https://www.frontendmentor.io/)
 
 
 
@@ -14,6 +13,7 @@ Sass  | [Sass](https://sass-lang.com/)
 Live| [Link](https://fredrikthunberg.github.io/faq-accordion-card-main/)
 
 
+This is my second challenge i have done on [Frontend Mentor](https://www.frontendmentor.io/)
 
 
 ## Mobile/375
