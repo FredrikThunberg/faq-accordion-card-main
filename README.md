@@ -13,11 +13,16 @@ HTML  |
 Sass  | [Sass](https://sass-lang.com/)
 Live| [Link](https://fredrikthunberg.github.io/faq-accordion-card-main/)
 
-##Desktop/1440
-![Alt text]()
+
+
 
 ## Mobile/375
-![Alt text]()
+![Alt text](https://github.com/FredrikThunberg/faq-accordion-card-main/blob/master/Display%20pics/Mobile.png)
+
+##Desktop/1440
+![Alt text](https://github.com/FredrikThunberg/faq-accordion-card-main/blob/master/Display%20pics/Desktop.png)
+
+
 
 
 
