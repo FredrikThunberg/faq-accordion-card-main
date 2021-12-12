@@ -2,10 +2,6 @@
 ## Challenge nr 2
 
 
-
-
-
-
 First Header  | Link
 ------------- | ------------- 
 HTML  | 
